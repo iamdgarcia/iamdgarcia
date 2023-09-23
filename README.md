@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### Dedicated Machine Learning Specialist | Tackling Complex Problems 🧠 | Deep Learning Enthusiast | Code Maverick | Data Alchemist 📊 | AI Thought Leader | Proven Freelancer ⭐
+### Dedicated Machine Learning Specialist | Tackling Complex Problems 🧠 | Deep Learning Enthusiast | Proven Freelancer ⭐
 
 
 
