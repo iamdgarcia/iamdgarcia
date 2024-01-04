@@ -1,4 +1,4 @@
-![Hello there](https://tenor.com/view/hello-hi-happy-fun-funny-gif-16461792)
+![Hello there](https://media.giphy.com/media/mP8YqtjCNOB9HLyrn0/giphy.gif)
 
 ### Hello there 👋 I'm Daniel
 
