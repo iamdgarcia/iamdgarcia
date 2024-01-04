@@ -1,7 +1,4 @@
-![Hello there](https://tenor.com/bheCW.gif)
-
-<div class="tenor-gif-embed" data-postid="16461792" data-share-method="host" data-aspect-ratio="1.29032" data-width="100%"><a href="https://tenor.com/view/hello-hi-happy-fun-funny-gif-16461792">Hello Hi GIF</a>from <a href="https://tenor.com/search/hello-gifs">Hello GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+![Hello there](https://tenor.com/view/hello-hi-happy-fun-funny-gif-16461792)
 
 ### Hello there 👋 I'm Daniel
 
