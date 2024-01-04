@@ -1,10 +1,13 @@
-### Hi there 👋
+![Hello there]([https://media1.tenor.com/images/6a4df9527c54d4528fb2b2ab47e7d422/tenor.gif?itemid=13774600](https://tenor.com/bheCW.gif))
 
+### Hello there 👋 I'm Daniel
 
-### Dedicated Machine Learning Specialist | Tackling Complex Problems 🧠 | Deep Learning Enthusiast | Proven Freelancer ⭐
+<p> <a href="https://www.linkedin.com/in/danigarciape/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://medium.com/@dgarc_ia" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> 
+</p>
 
-
-
-😎 Want a complete end-to-end computer vision solution, Reach me on <b><a href="https://www.upwork.com/freelancers/~0152066f52c6243b2c">Upwork</a></b> or <b><a href="https://www.fiverr.com/danigarci1">Fiverr</a></b>
-
-<b><a href = "https://www.linkedin.com/in/danigarciape/">LinkedIn</a> | <a href= "https://medium.com/@danigarci1">Medium</a></b><br><br></b>
+### About me :rocket:
+- 🎓  I am a Deep Learning (mostly Computer Vision) Engineer @ [CIN Systems](https://cinsystems.es/)
+- ❤️ I am passionate about **Software Engineering, Open-Source, Machine Learning/Deep Learning, Computer Vision and Robotics** 
+- 📜 BSc Electronics Engineering, MSc Informatics and PhD Artificial Intelligence
+- 📫 How to reach me: danigarciape@gmail.com
+- 🏠 Gijón(🇪🇸) 
