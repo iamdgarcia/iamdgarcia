@@ -10,6 +10,9 @@
   
 - 📜 BSc Electronics Engineering, MSc Informatics and PhD Artificial Intelligence
   
-- 📫 How to reach me: danigarciape@gmail.com
+- 📫 How to reach me: info@amdgarcia.com
   
 - 🏠 Gijón(🇪🇸) 
+
+## Research
+- [García Peña D, García Pérez D, Díaz Blanco I, Juárez JM. Exploring deep fully convolutional neural networks for surface defect detection in complex geometries. The International Journal of Advanced Manufacturing Technology.](https://link.springer.com/article/10.1007/s00170-024-14069-7)
