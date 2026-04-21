@@ -14,12 +14,12 @@
 
 ## 👨‍💻 About Me
 
-I bridge the gap between academic research and production-grade ML systems. Currently working as a **Data Scientist @ [Keepler](https://keepler.io/)**, I specialize in Computer Vision, Deep Learning, and Robotics. My background spans from low-level electronics to high-level AI architectures.
+I bridge the gap between academic research and production-grade ML systems. Currently working as an **AI Engineer @ [Unicaja](https://www.unicajabanco.es/)**, I specialize in Computer Vision, Deep Learning, and Robotics. My background spans from low-level electronics to high-level AI architectures.
 
 * 🎓 **PhD in Artificial Intelligence**, MSc in Informatics, BSc in Electronics Engineering.
-* 🔭 Working on: **Computer Vision, Active Learning, and Edge AI**.
+* 🔭 Working on: **Generative AI, Computer Vision and Data Science**.
 * 🏠 Based in: **Gijón, Spain (🇪🇸)**.
-* 💬 Ask me about: **YOLO Architectures, Surface Defect Detection, and Dockerizing ML**.
+* 💬 Ask me about: **Generative AI, AI infrastructure, Computer Vision**.
 
 ---
 
